@@ -1,5 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13800733&assignment_repo_type=AssignmentRepo)
-# Лабораторная работа 7
+# WeatherForecast
 
 Прогноз погоды. Внешние библиотеки.
 
@@ -36,10 +35,3 @@
 
 
 В данной работе, при взаимодействии с внешними сервисами, может возникать достаточно большое количество коллизий и краевых случаев. Внимательно, подумайте об этом! Ваша программа должна корректно работать и "не падать"
-
-## Deadline
-
-1. 20.02.24 0.85
-2. 27.02.24 0.65
-3. 05.03.24 0.5
-    

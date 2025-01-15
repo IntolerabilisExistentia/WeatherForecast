@@ -1,0 +1,1 @@
+/usr/sbin/c++ -O3 -DNDEBUG CMakeFiles/ftxui_example_color_truecolor_HSV.dir/color_truecolor_HSV.cpp.o -o ftxui_example_color_truecolor_HSV  -Wl,-rpath,/home/sartre/labwork7-IntolerabilisExistentia/build/_deps/ftxui-build ../../libftxui-dom.so.4.0.0 ../../libftxui-screen.so.4.0.0

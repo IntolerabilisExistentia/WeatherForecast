@@ -1,0 +1,18 @@
+{
+  "api_key": "EKAcffpG/EqliodO33ApXA==3UJu38l6B2tVWcMs",
+  "update_frequency": 10000,
+  "cities": [
+    {
+      "name": "Moscow",
+      "count_days": 3
+    },
+    {
+      "name": "Saint Petersburg",
+      "count_days": 3
+    },
+    {
+      "name": "Arkhangelsk",
+      "count_days": 3
+    }
+  ]
+}
