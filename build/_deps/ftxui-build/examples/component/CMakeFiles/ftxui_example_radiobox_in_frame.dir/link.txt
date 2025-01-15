@@ -1,1 +1,0 @@
-/usr/sbin/c++ -O3 -DNDEBUG CMakeFiles/ftxui_example_radiobox_in_frame.dir/radiobox_in_frame.cpp.o -o ftxui_example_radiobox_in_frame  -Wl,-rpath,/home/sartre/labwork7-IntolerabilisExistentia/build/_deps/ftxui-build ../../libftxui-component.so.4.0.0 ../../libftxui-dom.so.4.0.0 ../../libftxui-screen.so.4.0.0
